@@ -12,15 +12,25 @@ This project does NOT include the Cowan code itself.
 
 ------------------------------------------------------------
 
-REQUIREMENTS
+## Installation
 
-You must have the Cowan executables installed and available in your system PATH:
+Install directly from GitHub:
 
-- rcn
-- rcn2
-- rcg
+    pip install git+https://github.com/miguemcarvalhojr-cmd/cowan-runner.git
 
-The original Cowan code is required separately.
+Requirements:
+
+- Python >= 3.8
+- Cowan executables available in PATH:
+    - rcn
+    - rcn2
+    - rcg
+
+Verify Cowan is accessible by running:
+
+    rcn
+
+in your terminal.
 
 ------------------------------------------------------------
 
