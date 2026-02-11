@@ -1,0 +1,7 @@
+runs/
+WORK/
+OUT*
+*.DAT
+*.BIN
+__pycache__/
+*.pyc
