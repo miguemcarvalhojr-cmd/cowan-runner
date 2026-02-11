@@ -334,4 +334,5 @@ def create_cowan_run():
 # Run
 # -----------------------------
 
-create_cowan_run()
+if __name__ == "__main__":
+    create_cowan_run()
