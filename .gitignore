@@ -1,7 +1,17 @@
+# Python packaging
+*.egg-info/
+build/
+dist/
+
+# Bytecode
+__pycache__/
+*.pyc
+
+# Your generated runs
 runs/
 WORK/
+
+# Cowan outputs
 OUT*
 *.DAT
 *.BIN
-__pycache__/
-*.pyc
