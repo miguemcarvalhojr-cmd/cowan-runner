@@ -1,4 +1,6 @@
 # Cowan Runner
+https://doi.org/10.5281/zenodo.18607952
+
 
 WARNING:
 The Cowan code must be obtained separately.
@@ -112,7 +114,9 @@ NOTES
 ## Citation
 
 If you use this tool in published work, please cite both this repository and the original Cowan code.
-
+Carvalho, M. (2026).
+cowan-runner (Version 0.1.0) [Software].
+DOI:  10.5281/zenodo.18607952
 Cowan code:
 
 R. D. Cowan,
