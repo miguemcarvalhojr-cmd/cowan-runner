@@ -24,7 +24,6 @@ Requirements:
 - Cowan executables available in PATH:
     - rcn
     - rcn2
-    - rcg
 
 Verify Cowan is accessible by running:
 
@@ -37,7 +36,7 @@ in your terminal.
 WHAT THIS TOOL DOES
 
 - Automatically generates IN36
-- Runs Cowan (rcn, rcn2, rcg)
+- Runs Cowan (rcn, rcn2)
 - Parses the results
 - Extracts:
     • Fk (same-shell)
