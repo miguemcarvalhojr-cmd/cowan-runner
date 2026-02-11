@@ -8,7 +8,7 @@ This tool only automates execution and parsing.
 
 
 Python automation tool for running the Cowan atomic structure code
-and parsing results (Slater integrals, spin–orbit constants) for a given atomic configuration and respective XAS final state
+and parsing results (Slater integrals, spin–orbit constants) for a given atomic configuration and respective XAS final state for L and M edges
 
 This project does NOT include the Cowan code itself.
 
