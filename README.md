@@ -1,7 +1,7 @@
 # Cowan Runner
 
 WARNING:
-The Cowan code is NOT open-source and must be obtained separately.
+The Cowan code must be obtained separately.
 This tool only automates execution and parsing.
 
 
