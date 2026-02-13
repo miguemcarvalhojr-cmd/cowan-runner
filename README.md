@@ -53,7 +53,7 @@ USAGE
 
 Run:
 
-    python cowan_runner.py
+    cowan_runner
 
 The script will prompt for the required atomic and configuration parameters.
 
