@@ -18,7 +18,7 @@ This project does NOT include the Cowan code itself.
 
 Install directly from GitHub:
 
-    pip install git+https://github.com/miguemcarvalhojr-cmd/cowan-runner.git
+    pip install cowan-runner
 
 Requirements:
 
