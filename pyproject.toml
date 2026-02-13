@@ -1,14 +1,23 @@
-[project]
-name = "cowan-runner"
-version = "0.1.0"
-description = "Automation tool for running Cowan atomic structure calculations and parsing OUT36."
-authors = [{name = "Miguel Carvalho"}]
-readme = "README.md"
-requires-python = ">=3.8"
-
-[project.scripts]
-cowan-runner = "cowan_runner.cli:create_cowan_run"
-
 [build-system]
 requires = ["setuptools>=61"]
 build-backend = "setuptools.build_meta"
+
+[project]
+name = "cowan-runner"
+version = "0.1.0"
+description = "Automation wrapper for the Cowan atomic structure code"
+readme = "README.md"
+requires-python = ">=3.8"
+
+authors = [
+  { name = "Miguel Carvalho" }
+]
+
+license = { file = "LICENSE" }
+
+[project.scripts]
+cowan-runner = "cowan_runner.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["cowan_runner*"]
+exclude = ["runs*"]
